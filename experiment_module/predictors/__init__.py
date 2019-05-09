@@ -1,0 +1,1 @@
+from experiment_module.predictors.predictor import SentenceClassifierPredictor
